@@ -93,4 +93,6 @@ The confusion matrix provides insights into misclassification patterns among Low
 ## 👤 Author 
 **Chakradhar Peddavenkatagari** 
 
-University at Buffalo
+Masters in Computer Science
+
+The State University of New York at Buffalo 
