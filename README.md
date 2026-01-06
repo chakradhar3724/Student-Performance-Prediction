@@ -88,3 +88,9 @@ The confusion matrix provides insights into misclassification patterns among Low
 - Try alternative models (XGBoost, Gradient Boosting)
 - Convert the project into a web-based prediction system
 - Add explainability using SHAP or feature importance plots
+---
+
+## 👤 Author 
+**Chakradhar Peddavenkatagari** 
+
+University at Buffalo
